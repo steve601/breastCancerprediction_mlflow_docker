@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/odhia/OneDrive/Desktop/datascienceproject/notebooks/random_forest_mlruns/161028039202760377/90fa195c8cd34ad89afb901aebdd915c/artifacts
+end_time: 1720985341552
+entry_point_name: ''
+experiment_id: '161028039202760377'
+lifecycle_stage: active
+run_id: 90fa195c8cd34ad89afb901aebdd915c
+run_name: random_forest_run
+run_uuid: 90fa195c8cd34ad89afb901aebdd915c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720985335685
+status: 3
+tags: []
+user_id: odhia

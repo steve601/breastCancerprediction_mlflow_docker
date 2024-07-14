@@ -7,3 +7,4 @@ scikit-learn
 xgboost
 scipy==1.10.1
 mlflow
+imbalanced-learn
